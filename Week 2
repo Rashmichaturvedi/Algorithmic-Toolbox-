@@ -1,0 +1,57 @@
+Order the given functions by increasing growth rate.
+
+f_1(n)=n^3f 
+1
+​	 (n)=n 
+3
+ 
+
+f_2(n)=n^{0.3}f 
+2
+​	 (n)=n 
+0.3
+ 
+
+f_3(n)=nf 
+3
+​	 (n)=n
+
+f_4(n)=\sqrt{n}f 
+4
+​	 (n)= 
+n
+​	 
+
+f_5(n)=\frac{n^2}{\sqrt{n}}f 
+5
+​	 (n)= 
+n
+​	 
+n 
+2
+ 
+​	 
+
+f_6(n)=n^2f 
+6
+​	 (n)=n 
+2
+ 
+
+As an answer, provide a string of length exactly six (with no spaces or quotes) containing the numbers of six functions (the first number indicates the function with the smallest growth rate, while the last number indicates the function with the largest growth rate). For example, for a similar, but simpler problem f_1(n)=n^2f 
+1
+​	 (n)=n 
+2
+ , f_2(n)=nf 
+2
+​	 (n)=n, f_3(n)=n^3f 
+3
+​	 (n)=n 
+3
+  the answer would be 213.
+  
+  
+  
+  Its Answer as per course by formula : logn <sqrt(n) <n<nlogn<n*n<2 to power of n
+  
+  ans = 243561
