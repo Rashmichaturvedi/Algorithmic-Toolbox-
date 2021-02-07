@@ -2,7 +2,7 @@
 #include<vector>
 
 /*
-    ********************SAFE MOVE**********************
+    **********SAFE MOVE**********
     Moving as far as the fuel is good enought to reach another gas station
 */
 
